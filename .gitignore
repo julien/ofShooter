@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+# Visual Studio related shit
+*.sdf
+*.suo
+*.user
+
+# Binaries ...
+bin
+
