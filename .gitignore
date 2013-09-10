@@ -16,7 +16,8 @@
 *.sdf
 *.suo
 *.user
+ipch
+obj
 
 # Binaries ...
 bin
-
